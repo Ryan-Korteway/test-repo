@@ -14,6 +14,7 @@
 		85F1DC461E28637E008E99B3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 85F1DC441E28637E008E99B3 /* LaunchScreen.storyboard */; };
 		85F1DC511E28637E008E99B3 /* TestingForGitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85F1DC501E28637E008E99B3 /* TestingForGitTests.swift */; };
 		85F1DC5C1E28637E008E99B3 /* TestingForGitUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85F1DC5B1E28637E008E99B3 /* TestingForGitUITests.swift */; };
+		85F1DC6A1E28644B008E99B3 /* LaunchImage.png in Resources */ = {isa = PBXBuildFile; fileRef = 85F1DC691E28644B008E99B3 /* LaunchImage.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		85F1DC571E28637E008E99B3 /* TestingForGitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestingForGitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		85F1DC5B1E28637E008E99B3 /* TestingForGitUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestingForGitUITests.swift; sourceTree = "<group>"; };
 		85F1DC5D1E28637E008E99B3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		85F1DC691E28644B008E99B3 /* LaunchImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = LaunchImage.png; path = ../../../../Desktop/LaunchImage.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				85F1DC3F1E28637E008E99B3 /* Main.storyboard */,
 				85F1DC421E28637E008E99B3 /* Assets.xcassets */,
 				85F1DC441E28637E008E99B3 /* LaunchScreen.storyboard */,
+				85F1DC691E28644B008E99B3 /* LaunchImage.png */,
 				85F1DC471E28637E008E99B3 /* Info.plist */,
 			);
 			path = TestingForGit;
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				85F1DC6A1E28644B008E99B3 /* LaunchImage.png in Resources */,
 				85F1DC461E28637E008E99B3 /* LaunchScreen.storyboard in Resources */,
 				85F1DC431E28637E008E99B3 /* Assets.xcassets in Resources */,
 				85F1DC411E28637E008E99B3 /* Main.storyboard in Resources */,
